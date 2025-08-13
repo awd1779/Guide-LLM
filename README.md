@@ -55,7 +55,6 @@ Please cite our paper if you use this repository:
 @inproceedings{song2025guidellm,
   author = {Song, Sangmim and Kodagoda, Sarath and Gunatilake, Amal and Carmichael, Marc G. and Thiyagarajan, Karthick and Martin, Jodi},
   title = {Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments},
-  booktitle = {Proceedings of IROS},
   year = {2025}
 }
 ```
