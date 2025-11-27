@@ -52,14 +52,12 @@ We used the Stanford Scene area_4 for experiments. Download the dataset here:
 Please cite our paper if you use this repository:
 
 ```bibtex
-@article{song2024guidellm,
-  author  = {Song, Sangmim and Kodagoda, Sarath and Gunatilake, Amal and Carmichael, Marc G. and Thiyagarajan, Karthick and Martin, Jodi},
-  title   = {Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments},
-  journal = {arXiv preprint arXiv:2410.20666},
-  year    = {2024},
-  archivePrefix = {arXiv},
-  eprint  = {2410.20666},
-  doi = {10.48550/arXiv.2410.20666}
+@inproceedings{song2025guidellm,
+  author    = {Song, Sangmim and Kodagoda, Sarath and Gunatilake, Amal and Carmichael, Marc G. and Thiyagarajan, Karthick and Martin, Jodi},
+  title     = {Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments},
+  booktitle = {2025 International Conference on Sensing Techniques (ICST)},
+  year      = {2025},
+  note      = {Accepted for publication}
 }
 ```
 
